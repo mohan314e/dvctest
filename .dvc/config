@@ -1,0 +1,8 @@
+[core]
+    remote = minio
+    autostage = true
+['remote "gdrive"']
+    url = gdrive://1R0oQ7FdrQblBu5Bz_McTcQxtA-XDMXwK
+['remote "minio"']
+    url = s3://dvctest
+    endpointurl = https://ostore.314ecorp.tech
